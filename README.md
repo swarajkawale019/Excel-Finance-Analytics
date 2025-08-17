@@ -11,25 +11,25 @@ The analysis delves into key financial metrics such as Net Sales, Cost of Goods 
 
 This project is composed of four distinct PDF reports, each offering a unique perspective on AtliQ Hardwares' financial data.
 
-2.1. P&L by Fiscal Years
+2.1. [P&L by Fiscal Years](https://github.com/swarajkawale019/Excel-Finance-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Years.pdf)
 
 • Description: A high-level summary of the company's consolidated P&L statements for the fiscal years 2019, 2020, and 2021.
 
 • Purpose: To track year-over-year growth and overall financial health. It highlights key trends in revenue, costs, and profitability over a three-year period.
 
-2.2. P&L by Months
+2.2. [P&L by Months](https://github.com/swarajkawale019/Excel-Finance-Analytics/blob/main/P%20%26%20L%20By%20Months.pdf)
 
 • Description: A detailed monthly breakdown of the P&L statement for each fiscal year.
 
 • Purpose: To identify seasonal patterns, monthly sales cycles, and performance fluctuations. This granular view is crucial for operational planning and resource allocation.
 
-2.3. P&L for Markets
+2.3. [P&L for Markets](https://github.com/swarajkawale019/Excel-Finance-Analytics/blob/main/P%20%26%20L%20For%20Markets.pdf)
 
 • Description: A geographical breakdown of P&L performance across all active markets for the fiscal year 2021.
 
 • Purpose: To assess the revenue generation and profitability of individual countries and regions. This report helps in identifying key markets and evaluating international business strategy.
 
-2.4. Gross Margin % by Quarters (Sub-Zone)
+2.4. [Gross Margin % by Quarters (Sub-Zone)](https://github.com/swarajkawale019/Excel-Finance-Analytics/blob/main/GM%20%25%20by%20Quarters(sub_zone).pdf)
 
 • Description: A quarterly analysis of the Gross Margin percentage, segmented by regional sub-zones, from FY2019 to FY2021.
 
