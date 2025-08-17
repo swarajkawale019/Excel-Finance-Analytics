@@ -1,6 +1,6 @@
 # Excel-Finance-Analytics
 
-Financial Analytics Report for AtliQ Hardwares (FY2019-FY2021)
+**Financial Analytics Report for AtliQ Hardwares (FY2019-FY2021)**
 1. **Project Overview**
 
 This repository provides a comprehensive financial analysis of AtliQ Hardwares, a company specializing in hardware solutions. The project's primary goal is to deliver actionable insights into the company's performance by examining its profit and loss (P&L) statements from fiscal year 2019 to 2021.
@@ -13,39 +13,39 @@ This project is composed of four distinct PDF reports, each offering a unique pe
 
 2.1. [P&L by Fiscal Years](https://github.com/swarajkawale019/Excel-Finance-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Years.pdf)
 
-• Description: A high-level summary of the company's consolidated P&L statements for the fiscal years 2019, 2020, and 2021.
+• **Description:** A high-level summary of the company's consolidated P&L statements for the fiscal years 2019, 2020, and 2021.
 
-• Purpose: To track year-over-year growth and overall financial health. It highlights key trends in revenue, costs, and profitability over a three-year period.
+• **Purpose:** To track year-over-year growth and overall financial health. It highlights key trends in revenue, costs, and profitability over a three-year period.
 
 2.2. [P&L by Months](https://github.com/swarajkawale019/Excel-Finance-Analytics/blob/main/P%20%26%20L%20By%20Months.pdf)
 
-• Description: A detailed monthly breakdown of the P&L statement for each fiscal year.
+• **Description:** A detailed monthly breakdown of the P&L statement for each fiscal year.
 
-• Purpose: To identify seasonal patterns, monthly sales cycles, and performance fluctuations. This granular view is crucial for operational planning and resource allocation.
+• **Purpose:** To identify seasonal patterns, monthly sales cycles, and performance fluctuations. This granular view is crucial for operational planning and resource allocation.
 
 2.3. [P&L for Markets](https://github.com/swarajkawale019/Excel-Finance-Analytics/blob/main/P%20%26%20L%20For%20Markets.pdf)
 
-• Description: A geographical breakdown of P&L performance across all active markets for the fiscal year 2021.
+• **Description:** A geographical breakdown of P&L performance across all active markets for the fiscal year 2021.
 
-• Purpose: To assess the revenue generation and profitability of individual countries and regions. This report helps in identifying key markets and evaluating international business strategy.
+• **Purpose:** To assess the revenue generation and profitability of individual countries and regions. This report helps in identifying key markets and evaluating international business strategy.
 
 2.4. [Gross Margin % by Quarters (Sub-Zone)](https://github.com/swarajkawale019/Excel-Finance-Analytics/blob/main/GM%20%25%20by%20Quarters(sub_zone).pdf)
 
-• Description: A quarterly analysis of the Gross Margin percentage, segmented by regional sub-zones, from FY2019 to FY2021.
+•** Description:** A quarterly analysis of the Gross Margin percentage, segmented by regional sub-zones, from FY2019 to FY2021.
 
-• Purpose: To monitor profitability trends in specific business territories and understand how cost-effectiveness varies across different sub-zones.
+• **Purpose:** To monitor profitability trends in specific business territories and understand how cost-effectiveness varies across different sub-zones.
 
 3. **Key Insights from the Analysis**
    
-3.1. Strong Revenue Growth
+3.1. **Strong Revenue Growth**
 
 • The company has demonstrated exceptional growth, with Net Sales skyrocketing from $87.5M in FY2019 to $196.7M in FY2020, and reaching $598.9M in FY2021. This represents a growth of over 204% between FY2020 and FY2021 alone.
 
-3.2. Evolving Profitability
+3.2. **Evolving Profitability**
 
 • While the absolute Gross Margin has increased significantly (from $36.2M in 2019 to $218.2M in 2021), the overall Gross Margin Percentage (GM %) has experienced a slight contraction, moving from 41.4% in FY2019 to 36.4% in FY2021. This suggests that the cost of goods sold has grown at a slightly faster rate than sales revenue.
 
-3.3. Market-Specific Performance (FY2021)
+3.3. **Market-Specific Performance (FY2021)**
 
 • India stands out as the largest market by a significant margin, contributing $161.3M in Net Sales.
 
@@ -53,7 +53,7 @@ This project is composed of four distinct PDF reports, each offering a unique pe
 
 • Profitability varies across markets. For instance, New Zealand shows a high GM % of 48.2%, while Germany has a lower GM % of 26.2%, indicating different pricing strategies or cost structures.
 
-3.4. Regional Profitability Trends
+3.4. **Regional Profitability Trends**
 
 • The quarterly GM % report reveals fluctuating profitability across sub-zones. For example, the NA (North America) sub-zone's GM % improved from ~35% in FY2019 to ~40% in FY2020, before settling around 37% in FY2021. Such trends are critical for regional management to investigate.
 
